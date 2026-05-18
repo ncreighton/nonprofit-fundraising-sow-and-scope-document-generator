@@ -1,0 +1,2 @@
+# nonprofit-fundraising-sow-and-scope-document-generator
+Streamline your nonprofit’s fundraising projects with our comprehensive SOW and Scope Document Generator. Designed for development directors, grant writers, and nonprofit consultants, this template helps you create professional, detailed Statements of Work for campaigns, events, capital projects, and grant submissions. Save hours of formatting time
